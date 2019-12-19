@@ -1,0 +1,22 @@
+﻿  hangman.cpp
+c:\users\aladdin\desktop\ds projct\hangman v1.2 no display char\hangman\hangman.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\aladdin\desktop\ds projct\hangman v1.2 no display char\hangman\hangman.cpp(72): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aladdin\desktop\ds projct\hangman v1.2 no display char\hangman\hangman.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+c:\users\aladdin\desktop\ds projct\hangman v1.2 no display char\hangman\hangman.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\aladdin\desktop\ds projct\hangman v1.2 no display char\hangman\hangman.cpp(72): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aladdin\desktop\ds projct\hangman v1.2 no display char\hangman\hangman.cpp(85): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Source.obj : warning LNK4006: "public: __thiscall hangman::hangman(void)" (??0hangman@@QAE@XZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: bool __thiscall hangman::checkchar(char)" (?checkchar@hangman@@QAE_ND@Z) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: bool __thiscall hangman::checkwin(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?checkwin@hangman@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: void __thiscall hangman::file_Score(void)" (?file_Score@hangman@@QAEXXZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: void __thiscall hangman::game_continue(void)" (?game_continue@hangman@@QAEXXZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: void __thiscall hangman::load(void)" (?load@hangman@@QAEXXZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: void __thiscall hangman::random_word(int)" (?random_word@hangman@@QAEXH@Z) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "class player n" (?n@@3Vplayer@@A) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "class hangman g" (?g@@3Vhangman@@A) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "class std::basic_fstream<char,struct std::char_traits<char> > Scores" (?Scores@@3V?$basic_fstream@DU?$char_traits@D@std@@@std@@A) already defined in hangman.obj; second definition ignored
+C:\Users\Aladdin\Desktop\ds projct\Hangman v1.2 no display char\Debug\Hangman.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Hangman.vcxproj -> C:\Users\Aladdin\Desktop\ds projct\Hangman v1.2 no display char\Debug\Hangman.exe
